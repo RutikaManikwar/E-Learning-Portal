@@ -1,0 +1,136 @@
+/* src/components/Footer.css
+.footer {
+    background-color: c928c1;
+    color: white;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .footer-section {
+    flex: 1;
+    padding: 10px 20px;
+  }
+  
+  .footer-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  .footer-section p, .footer-section ul, .footer-section .social-links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer-section ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .footer-section ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .footer-section .social-links a {
+    margin-right: 10px;
+    font-size: 1.5em;
+    color: white;
+  }
+  
+  .footer-section .social-links a:hover {
+    color: #4caf50;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #555;
+    margin-top: 20px;
+  }
+    */
+
+
+
+
+    
+    .footer {
+      background-color:c928c1; /* Correct hex color code */
+      color: white;
+      padding: 20px 0;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+    }
+    
+    .footer-content {
+      display: flex;
+      justify-content: space-around;
+      align-items: flex-start;
+      max-width: 1200px;
+      margin: auto;
+      padding: 20px;
+    }
+    
+    .footer-section {
+      flex: 1;
+      padding: 10px 20px;
+    }
+    
+    .footer-section h2 {
+      font-size: 1.5em;
+      margin-bottom: 15px;
+      color: white; /* Ensure text color is white */
+    }
+    
+    .footer-section p, .footer-section ul, .footer-section .social-links {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    
+    .footer-section ul li {
+      margin-bottom: 10px;
+    }
+    
+    .footer-section ul li a {
+      color: white;
+      text-decoration: none;
+    }
+    
+    .footer-section ul li a:hover {
+      text-decoration: underline;
+    }
+    
+    .footer-section .social-links a {
+      margin-right: 10px;
+      font-size: 1.5em;
+      color: white;
+    }
+    
+    .footer-section .social-links a:hover {
+      color: #4caf50;
+    }
+    
+    .footer-bottom {
+      text-align: center;
+      padding: 10px;
+      border-top: 1px solid #555;
+      margin-top: 20px;
+      color: white; /* Ensure text color is white */
+    }
+   

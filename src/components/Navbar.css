@@ -1,0 +1,287 @@
+/* src/components/Navbar.css
+.navbar {
+    background-color: #931870;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .navbar-logo {
+    font-size: 1.5em;
+  }
+  
+  .navbar-links {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-links li {
+    margin: 0 15px;
+  }
+  
+  .navbar-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
+   */
+
+
+
+
+
+   /* NavBar.css */
+/* nav {
+  background-color: #333;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: #575757;
+}
+
+nav ul li a.active {
+  background-color: #444;
+} */
+
+
+
+
+
+
+/* NavBar.css */
+/* nav {
+  background-color: #333;
+  padding: 1rem;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: #575757;
+}
+
+nav ul li a.active {
+  background-color: #444;
+} */
+
+
+
+
+
+
+
+
+/* NavBar.css */
+/* .navbar {
+  background-color: #931870;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo {
+  font-size: 1.5em;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin: 0 15px;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+} */
+
+
+
+
+
+
+
+/* src/components/NavBar.css */
+/* .navbar {
+  background-color: #931870;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo {
+  font-size: 1.5em;
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin: 0 15px;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+} */
+
+
+
+
+
+
+
+/* Navbar.css */
+/* .navbar {
+  background-color: #931870;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo {
+  font-size: 1.5em;
+  
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin: 0 15px;
+}
+
+.navbar-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.navbar-links a:hover {
+  text-decoration: underline;
+} */
+
+
+
+
+
+
+.navbar {
+  background-color: #931870;
+  color: white;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #fff;
+  text-decoration-color: #fff ;
+  margin: 0; /* Ensure no extra margin around the logo */
+}
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-links li {
+  margin: 0 15px;
+}
+
+.navbar-links a,
+.navbar-links button {
+  color: white;
+  text-decoration: none;
+  background: none; /* Remove default button styles */
+  border: none; /* Remove default button border */
+  cursor: pointer; /* Change cursor to pointer */
+  font-size: 1em; /* Ensure consistent font size */
+  padding: 0; /* Remove default button padding */
+}
+
+.navbar-links a:hover,
+.navbar-links button:hover {
+  text-decoration: underline;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #fff;
+}

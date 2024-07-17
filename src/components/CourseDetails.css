@@ -1,0 +1,26 @@
+.course-details {
+    padding: 20px;
+  }
+  
+  .course-content {
+    margin-top: 20px;
+  }
+  
+  .course-content h2 {
+    margin-top: 20px;
+  }
+  
+  .course-content ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .course-content ul li {
+    margin-bottom: 10px;
+  }
+  
+  .course-content video {
+    width: 100%;
+    height: auto;
+  }
+  
